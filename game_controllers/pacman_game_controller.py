@@ -4,6 +4,7 @@ from utils.pathfinder import Pathfinder
 from utils.translate import translate_screen_to_maze, translate_maze_to_screen
 
 
+
 class PacmanGameController:
     def __init__(self):
         self.ascii_maze = [
