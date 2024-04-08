@@ -26,7 +26,6 @@ class PacmanGameController:
             "XXXXXX XX XXXXXXXX XX XXXXXX",
             "XXXXXX XX          XX XXXXXX",
             "XXXXXX XX XXXXXXXX XX XXXXXX",
-            "XXXXXX XX XXXXXXXX XX XXXXXX",
             "X                          X",
             "X XXXX XXXXX XX XXXXX XXXX X",
             "X XXXX XXXXX XX XXXXX XXXX X",
