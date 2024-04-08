@@ -14,6 +14,7 @@ import pytest
 def test_translate_screen_to_maze(in_coords, in_size, expected):
     assert translate_screen_to_maze(in_coords, in_size) == expected
 
+
 # Тесты для translate_maze_to_screen
 @pytest.mark.parametrize("in_coords, in_size, expected", [
     ((2, 2), 32, (64, 64)),
